@@ -1,0 +1,4 @@
+C:\Users\mardin\Desktop\home task collection\obj\Debug\net9.0\home task collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mardin\Desktop\home task collection\obj\Debug\net9.0\home task collection.AssemblyInfoInputs.cache
+C:\Users\mardin\Desktop\home task collection\obj\Debug\net9.0\home task collection.AssemblyInfo.cs
+C:\Users\mardin\Desktop\home task collection\obj\Debug\net9.0\home task collection.csproj.CoreCompileInputs.cache
